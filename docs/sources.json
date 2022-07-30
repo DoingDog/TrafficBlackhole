@@ -323,5 +323,25 @@
         "text": "EDIS New York, USA",
         "size": 10,
         "link": "https://us.edis.at/10MB.test"
+    },
+    {
+        "text": "Hetzner, HTTP Germany",
+        "size": 100,
+        "link": "https://speed.hetzner.de/100MB.bin"
+    },
+    {
+        "text": "Hetzner, HTTP Finland",
+        "size": 100,
+        "link": "http://hel.icmp.hetzner.com/100MB.bin"
+    },
+    {
+        "text": "BuyVM, USA",
+        "size": 100,
+        "link": "https://speedtest.lv.buyvm.net/100MB.test"
+    },
+    {
+        "text": "BuyVM, Luxembourg",
+        "size": 100,
+        "link": "https://speedtest.lu.buyvm.net/100MB.test"
     }
 ]
