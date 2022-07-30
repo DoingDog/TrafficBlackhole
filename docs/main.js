@@ -6,7 +6,7 @@ function simpleUid() {
     )
 }
 
-const initLang = 'en'
+const initLang = 'cn'
 
 const i18n = new VueI18n({
   locale: initLang, // 设置地区
