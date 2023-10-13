@@ -338,5 +338,10 @@
         "text": "BuyVM, Luxembourg",
         "size": 100,
         "link": "https://speedtest.lu.buyvm.net/100MB.test"
+    },
+    {
+        "text": "Bilibili, China",
+        "size": 178,
+        "link": "https://dl.hdslb.com/mobile/fixed/bili_win/bili_win-install.exe"
     }
 ]
